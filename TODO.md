@@ -19,9 +19,13 @@ Create styles.css (inside front/static folder) -
 Create functions.js (inside front/static folder) -
 Create basic flask app -
 Route flask to index.html -
+Route flask to folders (templates + static) -
 Link index.html to styles.css -
 Link index.html to functions.js -
 Add logger -
+Add book list -
+Add cuustomer list - 
+Add loaned list -
 
 
 
