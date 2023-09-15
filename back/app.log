@@ -1,0 +1,118 @@
+2023-09-15 11:16:33,968 - WARNING:  * Debugger is active!
+2023-09-15 11:16:33,972 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:16:51,266 - INFO:  * Detected change in 'C:\\Users\\admin\\Desktop\\book_library\\back\\app.py', reloading
+2023-09-15 11:16:51,961 - WARNING:  * Debugger is active!
+2023-09-15 11:16:51,966 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:16:57,063 - INFO:  * Detected change in 'C:\\Users\\admin\\Desktop\\book_library\\back\\app.py', reloading
+2023-09-15 11:16:57,635 - WARNING:  * Debugger is active!
+2023-09-15 11:16:57,639 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:17:00,717 - INFO:  * Detected change in 'C:\\Users\\admin\\Desktop\\book_library\\back\\app.py', reloading
+2023-09-15 11:17:01,352 - WARNING:  * Debugger is active!
+2023-09-15 11:17:01,360 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:17:02,389 - INFO:  * Detected change in 'C:\\Users\\admin\\Desktop\\book_library\\back\\app.py', reloading
+2023-09-15 11:17:02,962 - WARNING:  * Debugger is active!
+2023-09-15 11:17:02,962 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:17:06,020 - INFO:  * Detected change in 'C:\\Users\\admin\\Desktop\\book_library\\back\\app.py', reloading
+2023-09-15 11:17:06,607 - WARNING:  * Debugger is active!
+2023-09-15 11:17:06,611 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:17:32,010 - INFO:  * Detected change in 'C:\\Users\\admin\\Desktop\\book_library\\back\\app.py', reloading
+2023-09-15 11:17:32,543 - WARNING:  * Debugger is active!
+2023-09-15 11:17:32,547 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:17:35,615 - INFO:  * Detected change in 'C:\\Users\\admin\\Desktop\\book_library\\back\\app.py', reloading
+2023-09-15 11:17:36,160 - WARNING:  * Debugger is active!
+2023-09-15 11:17:36,164 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:17:38,165 - INFO: Home page accessed
+2023-09-15 11:17:38,171 - INFO: 127.0.0.1 - - [15/Sep/2023 11:17:38] "GET / HTTP/1.1" 200 -
+2023-09-15 11:17:45,447 - INFO: Home page accessed
+2023-09-15 11:17:45,455 - INFO: 127.0.0.1 - - [15/Sep/2023 11:17:45] "GET / HTTP/1.1" 200 -
+2023-09-15 11:18:39,928 - INFO: Home page accessed
+2023-09-15 11:18:39,941 - INFO: 127.0.0.1 - - [15/Sep/2023 11:18:39] "GET / HTTP/1.1" 200 -
+2023-09-15 11:23:07,988 - INFO: Home page accessed
+2023-09-15 11:23:08,012 - INFO: 127.0.0.1 - - [15/Sep/2023 11:23:08] "GET / HTTP/1.1" 200 -
+2023-09-15 11:23:08,024 - INFO: 127.0.0.1 - - [15/Sep/2023 11:23:08] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:23:08,589 - INFO: Home page accessed
+2023-09-15 11:23:08,589 - INFO: 127.0.0.1 - - [15/Sep/2023 11:23:08] "GET / HTTP/1.1" 200 -
+2023-09-15 11:23:08,601 - INFO: 127.0.0.1 - - [15/Sep/2023 11:23:08] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:23:23,046 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-15 11:23:23,046 - INFO: [33mPress CTRL+C to quit[0m
+2023-09-15 11:23:23,047 - INFO:  * Restarting with stat
+2023-09-15 11:23:23,465 - WARNING:  * Debugger is active!
+2023-09-15 11:23:23,469 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:23:34,153 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-15 11:23:34,153 - INFO: [33mPress CTRL+C to quit[0m
+2023-09-15 11:23:34,157 - INFO:  * Restarting with stat
+2023-09-15 11:23:34,594 - WARNING:  * Debugger is active!
+2023-09-15 11:23:34,598 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:24:03,748 - INFO: Home page accessed
+2023-09-15 11:24:03,759 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:03] "GET / HTTP/1.1" 200 -
+2023-09-15 11:24:03,773 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:03] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:24:05,318 - INFO: Home page accessed
+2023-09-15 11:24:05,318 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:05] "GET / HTTP/1.1" 200 -
+2023-09-15 11:24:05,330 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:05] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:24:07,275 - INFO: Home page accessed
+2023-09-15 11:24:07,276 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:07] "GET / HTTP/1.1" 200 -
+2023-09-15 11:24:07,302 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:24:27,822 - INFO: Home page accessed
+2023-09-15 11:24:27,822 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:27] "GET / HTTP/1.1" 200 -
+2023-09-15 11:24:27,842 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:27] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:24:41,142 - INFO: Home page accessed
+2023-09-15 11:24:41,146 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:41] "GET / HTTP/1.1" 200 -
+2023-09-15 11:24:41,158 - INFO: 127.0.0.1 - - [15/Sep/2023 11:24:41] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:26:31,381 - INFO: Home page accessed
+2023-09-15 11:26:31,396 - INFO: 127.0.0.1 - - [15/Sep/2023 11:26:31] "GET / HTTP/1.1" 200 -
+2023-09-15 11:26:31,416 - INFO: 127.0.0.1 - - [15/Sep/2023 11:26:31] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:26:54,249 - INFO: Home page accessed
+2023-09-15 11:26:54,265 - INFO: 127.0.0.1 - - [15/Sep/2023 11:26:54] "GET / HTTP/1.1" 200 -
+2023-09-15 11:26:54,277 - INFO: 127.0.0.1 - - [15/Sep/2023 11:26:54] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:30:18,832 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-15 11:30:18,832 - INFO: [33mPress CTRL+C to quit[0m
+2023-09-15 11:30:18,832 - INFO:  * Restarting with stat
+2023-09-15 11:30:19,255 - WARNING:  * Debugger is active!
+2023-09-15 11:30:19,259 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:30:22,928 - INFO: Home page accessed
+2023-09-15 11:30:22,943 - INFO: 127.0.0.1 - - [15/Sep/2023 11:30:22] "GET / HTTP/1.1" 200 -
+2023-09-15 11:30:22,961 - INFO: 127.0.0.1 - - [15/Sep/2023 11:30:22] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:30:31,336 - INFO: Home page accessed
+2023-09-15 11:30:31,340 - INFO: 127.0.0.1 - - [15/Sep/2023 11:30:31] "GET / HTTP/1.1" 200 -
+2023-09-15 11:30:31,355 - INFO: 127.0.0.1 - - [15/Sep/2023 11:30:31] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:31:43,940 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-15 11:31:43,940 - INFO: [33mPress CTRL+C to quit[0m
+2023-09-15 11:31:43,944 - INFO:  * Restarting with stat
+2023-09-15 11:31:44,480 - WARNING:  * Debugger is active!
+2023-09-15 11:31:44,484 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:31:47,022 - INFO: Home page accessed
+2023-09-15 11:31:47,046 - INFO: 127.0.0.1 - - [15/Sep/2023 11:31:47] "GET / HTTP/1.1" 200 -
+2023-09-15 11:31:47,064 - INFO: 127.0.0.1 - - [15/Sep/2023 11:31:47] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:32:50,949 - INFO: Home page accessed
+2023-09-15 11:32:50,961 - INFO: 127.0.0.1 - - [15/Sep/2023 11:32:50] "GET / HTTP/1.1" 200 -
+2023-09-15 11:32:50,973 - INFO: 127.0.0.1 - - [15/Sep/2023 11:32:50] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:32:57,577 - INFO: Home page accessed
+2023-09-15 11:32:57,581 - INFO: 127.0.0.1 - - [15/Sep/2023 11:32:57] "GET / HTTP/1.1" 200 -
+2023-09-15 11:32:57,597 - INFO: 127.0.0.1 - - [15/Sep/2023 11:32:57] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2023-09-15 11:32:57,605 - INFO: 127.0.0.1 - - [15/Sep/2023 11:32:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-15 11:34:20,186 - INFO:  * Detected change in 'C:\\Users\\admin\\Desktop\\book_library\\back\\app.py', reloading
+2023-09-15 11:34:20,251 - INFO:  * Restarting with stat
+2023-09-15 11:34:20,846 - WARNING:  * Debugger is active!
+2023-09-15 11:34:20,850 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:34:26,869 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-15 11:34:26,869 - INFO: [33mPress CTRL+C to quit[0m
+2023-09-15 11:34:26,869 - INFO:  * Restarting with stat
+2023-09-15 11:34:27,268 - WARNING:  * Debugger is active!
+2023-09-15 11:34:27,272 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:34:30,923 - INFO: Home page accessed
+2023-09-15 11:34:30,931 - INFO: 127.0.0.1 - - [15/Sep/2023 11:34:30] "GET / HTTP/1.1" 200 -
+2023-09-15 11:34:30,987 - INFO: 127.0.0.1 - - [15/Sep/2023 11:34:30] "GET /static/styles.css HTTP/1.1" 200 -
+2023-09-15 11:37:17,908 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-15 11:37:17,908 - INFO: [33mPress CTRL+C to quit[0m
+2023-09-15 11:37:17,908 - INFO:  * Restarting with stat
+2023-09-15 11:37:18,429 - WARNING:  * Debugger is active!
+2023-09-15 11:37:18,433 - INFO:  * Debugger PIN: 136-160-402
+2023-09-15 11:37:21,446 - INFO: Home page accessed
+2023-09-15 11:37:21,457 - INFO: 127.0.0.1 - - [15/Sep/2023 11:37:21] "GET / HTTP/1.1" 200 -
+2023-09-15 11:37:21,503 - INFO: 127.0.0.1 - - [15/Sep/2023 11:37:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
